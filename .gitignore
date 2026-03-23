@@ -1,0 +1,7 @@
+# binários
+*.exe
+*.out
+
+# arquivos temporários
+*.log
+
