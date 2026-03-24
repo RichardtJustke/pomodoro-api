@@ -1,0 +1,18 @@
+
+vamos la vamos ver seu eu entendi 
+primeiro eu tenho quero tirar uma duvida eu tenho que decorar essas nomeclaturas pq tipo eu sei que só fazneod isso todo santo dia que vou "decorar" de fato sla http.RespondeWrite não é um negocio facil de lembrar assim de letra saca 
+
+agora sim, vamos começar 
+antes do main criamos o nosso slice em outras palavras o nosso banco 
+o main se matem e depois criamos a nova função onde temos que:
+ validar 
+ receber
+ processar 
+ salvar 
+ responder
+
+primiro se valida o metodo no caso post mas pode variar para get ou outros...
+
+depois ele recebe e transforma em json usando o decode 
+depois ele le o banco 
+ele cria um tarefa no banco e depois de passa ela
